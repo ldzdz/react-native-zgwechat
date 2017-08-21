@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/LDZ/zgss/node_modules/react-native-wechat/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/LDZ/.android/build-cache/0e9d8af9326f13b311429e105250d0d57f42e913/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/LDZ/zgss/node_modules/react-native-wechat/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/LDZ/.android/build-cache/0e9d8af9326f13b311429e105250d0d57f42e913/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
